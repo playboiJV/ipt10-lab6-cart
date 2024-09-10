@@ -1,0 +1,5 @@
+Order Code: 9V34HNWB
+Date and Time: 2024-09-10 13:59:48
+Order Items:
+Product ID: 4, Product Name: 5Kg Sugar, Price: 500 PHP
+Total Price: 500 PHP
